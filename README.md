@@ -41,9 +41,9 @@ The project is built using the following web technologies:
 
 ## 📸 Preview  
 
-<img src="https://raw.githubusercontent.com/SarangPatil9700/Amazon_Clone_Website/main/Screenshot%20(37).png" height="500" width="1500">  
+<img src="https://raw.githubusercontent.com/SarangPatil9700/Amazon_Clone_Website/main/Screenshot (37).png.png" height="500" width="1500">  
 
-<img src="https://raw.githubusercontent.com/SarangPatil9700/Amazon_Clone_Website/main/Screenshot%20(38).png" height="500" width="1500">  
+<img src="https://raw.githubusercontent.com/SarangPatil9700/Amazon_Clone_Website/main/Screenshot (38).png" height="500" width="1500">  
 
 
 
