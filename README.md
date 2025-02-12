@@ -12,9 +12,9 @@ Length Converter is a web-based tool that allows users to seamlessly convert bet
 
 ### 🔄 Multiple Unit Conversions
 This converter supports seven different length units:  
-- Feet (ft)  
-- Meters (m)
-- Inches (in)
+- **Feet (ft)**
+- **Meters (m)**
+- **Inches (in)**
 - **Centimeters (cm)**  
 - **Yards (yd)**  
 - **Kilometers (km)**  
@@ -40,36 +40,15 @@ The project is built using the following web technologies:
 - **JavaScript** - Core logic for unit conversion.  
 
 ## 📸 Preview  
-![Length Converter Preview](preview-image.png) *(Replace with an actual screenshot of your project)*  
 
-## 📂 Project Structure  
-```
-📂 length-converter  
-│── 📄 index.html         # Main HTML file  
-│── 📄 style.css          # Stylesheet  
-│── 📄 script.js          # JavaScript logic  
-│── 📄 README.md          # Project documentation  
-```
 
-## 🛠️ How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/sarangpatil9700/CodeClause_UnitConverter.git
-   ```
-2. Open `index.html` in a browser.  
-3. Enter a value in any input field, and the corresponding units will update automatically.  
+
 
 ## 🌐 Live Demo  
 [Try it now!](https://sarangpatil9700.github.io/CodeClause_UnitConverter/)  
 
-## 💡 Future Enhancements  
-🔹 Add more units like millimeters and nautical miles.  
-🔹 Implement a **dark mode** for better usability at night.  
-🔹 Allow users to switch between unit categories (e.g., weight, volume).  
 
 ## 📌 Contributing  
 If you find any bugs or have suggestions, feel free to **fork the repository** and submit a pull request. Contributions are always welcome!  
-
----
 
 Let me know if you want any modifications or additions! 🚀
